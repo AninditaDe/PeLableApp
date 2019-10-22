@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AninditaDe/PeLableApp.git/static/css/main.63818607.chunk.css",
+    "main.js": "/AninditaDe/PeLableApp.git/static/js/main.7467a418.chunk.js",
+    "main.js.map": "/AninditaDe/PeLableApp.git/static/js/main.7467a418.chunk.js.map",
+    "runtime-main.js": "/AninditaDe/PeLableApp.git/static/js/runtime-main.dae9df49.js",
+    "runtime-main.js.map": "/AninditaDe/PeLableApp.git/static/js/runtime-main.dae9df49.js.map",
+    "static/css/2.5d45f07d.chunk.css": "/AninditaDe/PeLableApp.git/static/css/2.5d45f07d.chunk.css",
+    "static/js/2.f15758db.chunk.js": "/AninditaDe/PeLableApp.git/static/js/2.f15758db.chunk.js",
+    "static/js/2.f15758db.chunk.js.map": "/AninditaDe/PeLableApp.git/static/js/2.f15758db.chunk.js.map",
+    "index.html": "/AninditaDe/PeLableApp.git/index.html",
+    "precache-manifest.3469c119acf1095693e3aa011f382203.js": "/AninditaDe/PeLableApp.git/precache-manifest.3469c119acf1095693e3aa011f382203.js",
+    "service-worker.js": "/AninditaDe/PeLableApp.git/service-worker.js",
+    "static/css/2.5d45f07d.chunk.css.map": "/AninditaDe/PeLableApp.git/static/css/2.5d45f07d.chunk.css.map",
+    "static/css/main.63818607.chunk.css.map": "/AninditaDe/PeLableApp.git/static/css/main.63818607.chunk.css.map",
+    "static/media/Logo.jpg": "/AninditaDe/PeLableApp.git/static/media/Logo.f70991e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dae9df49.js",
+    "static/css/2.5d45f07d.chunk.css",
+    "static/js/2.f15758db.chunk.js",
+    "static/css/main.63818607.chunk.css",
+    "static/js/main.7467a418.chunk.js"
+  ]
+}
