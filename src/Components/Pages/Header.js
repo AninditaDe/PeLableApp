@@ -1,6 +1,6 @@
-import React from 'react';
-import 'bootstrap/dist/css/bootstrap.css';
-import PeLableNav from "./PeLableNav"
+import React from "react";
+//import "bootstrap/dist/css/bootstrap.css";
+import PeLableNav from "./PeLableNav";
 
 class Header extends React.Component {
   render() {
@@ -10,9 +10,8 @@ class Header extends React.Component {
           <PeLableNav />
         </header>
       </div>
-    )
+    );
   }
 }
 
-
-export default Header
+export default Header;

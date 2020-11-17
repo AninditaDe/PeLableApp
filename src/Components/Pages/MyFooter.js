@@ -1,6 +1,6 @@
-import React from 'react';
-import 'bootstrap/dist/css/bootstrap.css';
-import { Navbar, Container, NavbarBrand } from 'react-bootstrap';
+import React from "react";
+//import 'bootstrap/dist/css/bootstrap.css';
+import { Navbar, Container, NavbarBrand } from "react-bootstrap";
 
 class MyFooter extends React.Component {
   render() {
@@ -25,4 +25,4 @@ class MyFooter extends React.Component {
     );
   }
 }
-export default MyFooter
+export default MyFooter;
